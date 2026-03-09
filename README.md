@@ -1,14 +1,14 @@
 # Hi there 👋, Welcome to my GitHub!
 
 I'm **Bojana Naumovska**, a student at the **Faculty of Computer Science and Engineering (FINKI), Skopje** 🎓.  
-Passionate about **software development, cybersecurity and AI**, I enjoy turning ideas into solutions while always learning something new. 🚀  
+Passionate about **software development, cybersecurity, and AI**, I enjoy turning ideas into solutions while always learning something new. 🚀  
 
 ---
 
 ## 👩‍💻 About Me
 - 🔭 Currently working on: projects with **C#** and **ASP.NET**  
-- 🌱 Learning: **Databases**  
-- 💡 Interested in: **Cybersecurity**, **Web Development**, **Artificial Intelligence**, and **Multilevel Agent Systems**  
+- 🌱 Currently learning new tools and technologies (see Tech Stack below)  
+- 💡 Interested in: **Cybersecurity**, **Web Development**, **AI**, and **DevOps**  
 - 📸 Fun fact: I also love **Photography**  
 
 ---
@@ -29,9 +29,22 @@ Passionate about **software development, cybersecurity and AI**, I enjoy turning
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 **Databases:**  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+
+**Currently Learning**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+
+**Linux Distributions:**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-2F6B21?style=for-the-badge&logo=linux&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-00574B?style=for-the-badge&logo=linux&logoColor=white)  
+
+---
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/bojana-naumovska-98b565273/)  
